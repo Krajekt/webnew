@@ -182,7 +182,7 @@ var pJS = function(tag_id, params){
 
 
 
-  /* ---------- pJS functions - canvas ------------ */
+  /* ---------- pJS functions - cуууnvas ------------ */
 
   pJS.fn.canvasInit = function(){
     pJS.canvas.ctx = pJS.canvas.el.getContext('2d');
